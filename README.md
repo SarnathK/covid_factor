@@ -8,4 +8,4 @@
 # Youtube video
 1. This covid_factor is based on "world tourism" numbers.
 2. If you want to create "covid_factors" for your specific region, then follow my youtube video on this.
-3. Here is the URL to youtube: 
+3. Here is the URL to youtube: https://youtu.be/Ho0kCdGGV50
